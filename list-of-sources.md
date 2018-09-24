@@ -1,7 +1,17 @@
 # List of Data Sources 
 
-## NAIF/SPICE Documentation
-
-## CDPP/TREPS tool
-
-## Papers
+* [Juno Coord System Document](http://lasp.colorado.edu/home/mop/files/2015/02/CoOrd_systems11.pdf)
+* [Europlanet/VESPA Planetary Coord Systems](https://voparis-confluence.obspm.fr/display/VES/Planetary+Coordinate+Systems)
+* [IVOA Space Time Coordinate Mode: Standard Reference Frames List](http://www.ivoa.net/documents/REC/DM/STC-20071030.html#_Toc181531804)
+* [SPASE Data Model: CoordinateSystemName](http://spase-group.org/data/model/spase-2_3_0/spase-2_3_0_xsd.htm#CoordinateSystem_CoordinateSystemName)
+* [OMNIWeb Geomagnetic Frames](https://omniweb.gsfc.nasa.gov/vitmo/cgmm_des.html)
+* [Geophysical Coordinate Transformations, C. Russel, IGPP, UCLA](http://www-ssc.igpp.ucla.edu/personnel/russell/papers/gct1.html/)
+* [CDPP/TREPS tool](http://treps.cdpp.eu)
+* [M.A.Hapgood, Space physics coordinate transformations: A user guide, PSS, 40-5, 1992, 711-717](https://doi.org/10.1016/0032-0633(92)90012-D)
+* [MSSL UCL Ref list](http://www.mssl.ucl.ac.uk/grid/iau/extra/local_copy/SP_coords/refs.htm)
+* [Fränz & Harper, Heliospheric Coordinate Systems](http://www2.mps.mpg.de/homes/fraenz/systems/)
+* [HELIO-FP7 Coordinate Systems](http://helio-vo.eu/documents/public/HELIO_Coordinates_100322.pdf)
+* [Coordinate systems for solar image data, W. T. Thompson, A&A 449, 791-803 (2006)](https://www.aanda.org/articles/aa/abs/2006/14/aa4262-05/aa4262-05.html)
+* [Coordinate Systems for ACE](http://www.srl.caltech.edu/ACE/ASC/coordinate_systems.html)
+* [SPENVIS Coordinate Systems](https://www.spenvis.oma.be/help/background/coortran/coortran.html)
+* [STEREO Science Center Coordinate Systems](https://stereo-ssc.nascom.nasa.gov/coordinates_explanation.shtml)
