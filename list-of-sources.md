@@ -16,3 +16,4 @@
 * [SPENVIS Coordinate Systems](https://www.spenvis.oma.be/help/background/coortran/coortran.html)
 * [STEREO Science Center Coordinate Systems](https://stereo-ssc.nascom.nasa.gov/coordinates_explanation.shtml)
 * [IAU code](https://arxiv.org/ftp/arxiv/papers/1706/1706.02683.pdf) - [Data get from IAU report](https://github.com/USGS-Astrogeology/GDAL_scripts/blob/master/OGC_IAU2000_WKT_v2/naifcodes_radii_m_wAsteroids_IAU2015.csv) and [source code to convert to WKT-crs](https://github.com/USGS-Astrogeology/GDAL_scripts/blob/master/OGC_IAU2000_WKT_v2/Source_Python/create_IAU2000.py)
+* [CRS representation in OGC](http://docs.opengeospatial.org/is/12-063r5/12-063r5.html)
